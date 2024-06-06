@@ -1,1 +1,1 @@
-Testování databáze pčes POSTMAN + testovací scénáře a exekuce testů
+Testování databáze přes POSTMAN + testovací scénáře a exekuce testů
