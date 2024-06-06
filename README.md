@@ -1,1 +1,1 @@
-Discord Vladimír Tůma
+Testování databáze pčes POSTMAN + testovací scénáře a exekuce testů
